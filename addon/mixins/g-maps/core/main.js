@@ -55,7 +55,8 @@ export default Ember.Mixin.create(Ember.Evented, {
       'showMapTypeControl',
       'scaleControl',
       'showScaleControl',
-      'disableDefaultUI'
+      'disableDefaultUI',
+      'styles'
     );
 
     // Map symantic names to Google Map Options
